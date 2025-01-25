@@ -134,5 +134,13 @@
     "license": "CC-BY-NC-SA-4.0",
     "src": "https://github.com/SymTrkl/emoji/releases/download/yasFlags/yasflag.zip",
     "src_sha256": "B44C30EC30B5D8C06051A153DFDEC9D4D9291737B568F89D1E5E29F06C41AFA3"
-  }
+  },
+	"rain_hugs": {
+		"description": "Neocritters hugging Rain!",
+		"files": "rain_hugs_files.json",
+		"homepage": "https://github.com/SymTrkl/emoji/releases/tag/rain_hugs"
+		"license": "CC-BY-NC-SA-4.0",
+		"src": "https://github.com/SymTrkl/emoji/releases/download/rain_hugs/rain_hugs.zip",
+		"src_sha256": "666f9d057c05e7620a850ec5ea01b01db9f79a838506fcf5fc8d5dbc74800e7b"
+	}
 }
