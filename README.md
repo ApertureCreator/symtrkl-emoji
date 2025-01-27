@@ -34,6 +34,8 @@ My first full emoji set, [NeoBot!](https://github.com/SymTrkl/emoji/releases/tag
 
 [yasFlags](https://github.com/SymTrkl/emoji/releases/tag/yasFlags) - Yaseen's pride flag on some neocritters, regular and boykisser variants
 
+[Rain Hugs](https://github.com/SymTrkl/emoji/releases/tag/rain_hugs) - Neocritters hugging [Rain](https://reignofrain.ing/)!
+
 *(The high res versions of the older ones no longer exist, so that directory is incomplete.)*
 
 ### Licenses
